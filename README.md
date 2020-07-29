@@ -8,7 +8,7 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 
 _app-debug.apk es el archivo de instalacion_
 
-_para la base del proyecto se utilizo, Injeccion de dependecias con dagger2, room y coroutines_
+_para la base del proyecto se utilizo, Injection de dependecias con dagger2, room y coroutines_
 
 _La aplicacion no esta finalizada en su totalidad, hubieron cosas que queria arreglar pero por cuestiones de tiempo no alcance_
 
