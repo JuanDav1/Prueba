@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Prueba</string>
+    <string name="error_image">Imagen no disponible</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nasa_id">Nasa Id:</string>
+    <string name="created">Created:</string>
+    <string name="all">All</string>
+    <string name="favorite">Favorite</string>
+    <string name="apollo">Prueba Apollo</string>
+    <string name="delete">Delete All</string>
+    <string name="refresh">Refresh</string>
+
+</resources>
